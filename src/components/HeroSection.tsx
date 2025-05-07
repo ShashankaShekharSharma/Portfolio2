@@ -73,9 +73,9 @@ const HeroSection: React.FC = () => {
           
           <div className="w-full md:w-1/2 mt-12 md:mt-0 flex justify-center animate-fadeIn animation-delay-800">
             <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-indigo-400/30 shadow-xl animate-float">
-              <div className="absolute inset-0 bg-gradient-to-br from-indigo-600/20 to-purple-600/20"></div>
+              <div className="absolute inset-0 from-indigo-600/20 to-purple-600/20"></div>
               <img 
-                src="https://i.imgur.com/YourPhotoID.jpg" 
+                src="1686537622076.jpeg" 
                 alt="Shashanka Shekhar Sharma"
                 className="w-full h-full object-cover"
               />
