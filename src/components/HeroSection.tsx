@@ -74,11 +74,15 @@ const HeroSection: React.FC = () => {
           <div className="w-full md:w-1/2 mt-12 md:mt-0 flex justify-center animate-fadeIn animation-delay-800">
             <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-indigo-400/30 shadow-xl animate-float">
               <div className="absolute inset-0  from-indigo-600/20 to-purple-600/20"></div>
-              <img 
-                src="https://drive.google.com/file/d/1f7lSl33ZsqyKFaNmY96cXwBa_rUQNdo4/view?usp=sharing" 
-                alt="Shashanka Shekhar Sharma"
-                className="w-full h-full object-cover"
-              />
+              <a data-flickr-embed="true" href="https://www.flickr.com/photos/169196674@N05/54503636669/in/dateposted-public/" title="1686537622076">
+                <img 
+                  src="https://live.staticflickr.com/65535/54503636669_7eb43753f9_c.jpg" 
+                  alt="1686537622076"
+                  className="w-full h-full object-cover"
+                  width="800"
+                  height="800"
+                />
+              </a>
             </div>
           </div>
         </div>
