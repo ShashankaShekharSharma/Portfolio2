@@ -21,7 +21,7 @@ const EducationSection: React.FC = () => {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800">SRM Institute of Science and Technology</h3>
-                <p className="text-indigo-600">B.Sc. Computer Science</p>
+                <p className="text-indigo-600">B.Tech. Computer Science and Engineering</p>
               </div>
             </div>
             <div className="space-y-2">
@@ -47,7 +47,7 @@ const EducationSection: React.FC = () => {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800">IIT Madras</h3>
-                <p className="text-indigo-600">B.Sc. Data Science and Applications</p>
+                <p className="text-indigo-600">B.S. Data Science and Applications</p>
               </div>
             </div>
             <div className="space-y-2">
