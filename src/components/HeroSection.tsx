@@ -75,7 +75,7 @@ const HeroSection: React.FC = () => {
             <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-indigo-400/30 shadow-xl animate-float">
               <div className="absolute inset-0  from-indigo-600/20 to-purple-600/20"></div>
               <img 
-                src="1686537622076.jpeg" 
+                src="https://drive.google.com/file/d/1f7lSl33ZsqyKFaNmY96cXwBa_rUQNdo4/view?usp=sharing" 
                 alt="Shashanka Shekhar Sharma"
                 className="w-full h-full object-cover"
               />
