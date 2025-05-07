@@ -110,7 +110,7 @@ const AboutSection: React.FC = () => {
           
           <div className="space-y-6">
             <div className="bg-white rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow border border-gray-100">
-              <h3 className="text-xl font-semibold text-gray-800 mb-3">Important Documents</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-3">My Resume</h3>
               <div className="space-y-4">
                 <a 
                   href="https://drive.google.com/file/d/1Xmc464dEpm6QqBqcQgU3coLaYIy1jQBQ/view?usp=sharing"
@@ -122,18 +122,6 @@ const AboutSection: React.FC = () => {
                   <div>
                     <h4 className="font-medium text-gray-800 group-hover:text-indigo-600">Resume</h4>
                     <p className="text-sm text-gray-600">View my detailed professional background</p>
-                  </div>
-                </a>
-                <a 
-                  href="https://drive.google.com/file/d/1fROj3vFLdEyI3fo-_-TzhELMiNb-SCwl/view?usp=sharing"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center p-3 rounded-lg border border-gray-200 hover:border-indigo-400 transition-colors group"
-                >
-                  <BookOpen className="w-5 h-5 text-indigo-600 mr-3" />
-                  <div>
-                    <h4 className="font-medium text-gray-800 group-hover:text-indigo-600">Coding Practice</h4>
-                    <p className="text-sm text-gray-600">View my coding practice documentation</p>
                   </div>
                 </a>
               </div>
